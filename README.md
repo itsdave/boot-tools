@@ -4,7 +4,7 @@ This is simple repository that has scripts and binaries to
 aid with booting of Pine A64 and Pinebook.
 
 This repository is primarily meant to access Pine as USB mass
-storage when using USB OTG A-to-A cable.
+storage when using USB A-to-A cable.
 
 This requires for your device to be run in FEL mode.
 
